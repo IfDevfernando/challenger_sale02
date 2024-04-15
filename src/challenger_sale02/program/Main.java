@@ -13,7 +13,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-System.out.println("============= CHALLENGER SALE 01 ==============");
+System.out.println("============= CHALLENGER SALE 02 ==============");
 		
 		String path ="C:\\Users\\usedo\\OneDrive\\Documentos\\curso_devSuperiro_spring\\Java_Devsuperiror_expert\\in.csv";
 		
